@@ -1,0 +1,2 @@
+1) Understand how backwardpass and forward pass work and how data is handled
+2) 
